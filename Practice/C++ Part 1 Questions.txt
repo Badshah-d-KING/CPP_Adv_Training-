@@ -1,0 +1,15 @@
+Questions based on cin and cout
+1. Create a basic calculator with addition, subtraction, division and multiplication as option given to user. 
+
+Questions based on arrays and vectors
+2. Declare an empty vectors of integers named vector 1. Add 10 and 20 to vector 1 using push_back. 
+   Display the elements in vector 1 using at() method as well as its size using size() method. 
+
+Question based on strings
+3. We are implementing a cipher. Each letter of alphabet gets replaced by another one. For example 'c' is replaced
+   by 'Z' and 'u' is replaced by 'A'.
+   Write a program that ask user to enter a message. Encrypt this message and display it. Then decrypt the message to display 
+   origninal message. 
+   You should have two strings. One message and another one is key. To encrypt you can replace the character at position n in
+   alphabet with the character at position n in key. For decrypt you can replace the character at position n in key with 
+   character at position in alphabet.
